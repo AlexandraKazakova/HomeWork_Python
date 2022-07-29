@@ -1,3 +1,4 @@
+# Все равны
 values = [14, 34, 24, 0]
 
 def same_by(characteristic, objects):

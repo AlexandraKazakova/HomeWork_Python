@@ -1,3 +1,4 @@
+
 from math import pow
 
 def print_operation_table(operation, num_rows = 10, num_columns = 10):

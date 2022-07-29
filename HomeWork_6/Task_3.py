@@ -1,3 +1,4 @@
+# Пам-парам
 from collections import Counter
 poem = input('Введите стихотворение -> ')
 poem_arr = []
